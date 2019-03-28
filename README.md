@@ -2,6 +2,7 @@
 
 ①：主要功能就是小程序后台开发基本功能
     小程序推送代码：
+
     ```
     <form   report-submit='true' bindsubmit='getFormID'>
           <button form-type="submit" class="zan-btn zan-btn--large zan-btn--danger payButton">点我会生成fromid~~~</button>
